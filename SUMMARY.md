@@ -25,7 +25,7 @@
 ## TOKEN ECONOMICS
 
 * [🧊 LAW](token-economics/law.md)
-* [#️⃣ lawETP](token-economics/lawetp.md)
+* [#⃣ lawETP](token-economics/lawetp.md)
 * [💰 lawUSD](token-economics/lawusd.md)
 
 ## NFTs
