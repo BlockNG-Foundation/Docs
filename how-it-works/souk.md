@@ -10,4 +10,19 @@ coverY: 0
 **TBD**
 {% endhint %}
 
-###
+### SOUK&#x20;
+
+The LawPunk marketplace hosted on BlockNG.money&#x20;
+
+The SOUK consists of a search tool that allows all 10000 punks to be displayed and search&#x20;
+
+Currencies accepted :&#x20;
+
+* LAW (1% sellers fee)
+* sBCH (5% sellers fee)
+* LawUSD (3% sellers fee)
+
+Further historical SOUK data is displayed (time of writing 10/20/22)
+
+<figure><img src="../.gitbook/assets/souk.PNG" alt=""><figcaption></figcaption></figure>
+

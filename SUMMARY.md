@@ -12,21 +12,37 @@
 * [🧑🤝🧑 Self-Distributing Social Network System (SSNS)](how-it-works/ssns.md)
 * [🛰 BEAM & CIVIL BEAM](how-it-works/beam.md)
 * [🤠 Proof Of LawPunks (PoPuk)](how-it-works/popuk/README.md)
+  * [🪙 MY TOKEN](how-it-works/popuk/my-token/README.md)
+    * [LawPunk Details](how-it-works/popuk/my-token/lawpunk-details.md)
+  * [💸 MY BID](how-it-works/popuk/my-bid.md)
+  * [👻 MY GHOST](how-it-works/popuk/my-ghost.md)
+  * [⛓ MY PROOF](how-it-works/popuk/my-proof.md)
   * [👿 Dungeon](how-it-works/popuk/dungeon.md)
-  * [🙀 Cry](how-it-works/popuk/cry.md)
-  * [💊 Pharmacist](how-it-works/popuk/pharmacist.md)
 * [🚬 Punks Market (SOUK)](how-it-works/souk.md)
 * [💲 Stable Coin Lending Protocol (PAWN)](how-it-works/pawn/README.md)
   * [㊙ Liquidator's Guide](how-it-works/pawn/liquidators-guide.md)
 * [🌐 The LAWSwap & DAO](how-it-works/dao/README.md)
   * [🧸 How to create a BEAM Pool](how-it-works/dao/how-to-create-a-beam-pool.md)
   * [🥖 Bribe & Receive Bribe](how-it-works/dao/bribe-and-receive-bribe.md)
+* [🙀 Cry](how-it-works/cry.md)
+* [💊 Pharmacist](how-it-works/pharmacist.md)
+* [🧘♂ Guru](how-it-works/guru.md)
 
-## TOKEN ECONOMICS
+## TOKENS <a href="#token-economics" id="token-economics"></a>
 
 * [🧊 LAW](token-economics/law.md)
 * [#⃣ lawETP](token-economics/lawetp.md)
-* [💰 lawUSD](token-economics/lawusd.md)
+* [💜 lawUSD](token-economics/lawusd.md)
+* [💚 bcUSDT](token-economics/bcusdt.md)
+* [☀ bcBUSD](token-economics/bcbusd.md)
+* [💙 bcUSDC](token-economics/bcusdc.md)
+* [🧡 bcDAI](token-economics/bcdai.md)
+* [👽 bcBCH](token-economics/bcbch.md)
+* [🟨 bcBNB](token-economics/bcbnb.md)
+* [🟠 bcBTC](token-economics/bcbtc.md)
+* [🔹 bcETH](token-economics/bceth.md)
+* [🐶 dcWDOGE](token-economics/dcwdoge.md)
+* [🟣 dcDC](token-economics/dcdc.md)
 
 ## NFTs
 
