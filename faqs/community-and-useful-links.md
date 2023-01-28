@@ -9,7 +9,11 @@
 🐦 [https://twitter.com/BlockngO/](https://twitter.com/BlockngO/)\
 📚 [https://medium.com/@blockng](https://medium.com/@blockng)
 
+📘 Docs: [https://docs.blockng.money/](https://docs.blockng.money/)
+
 🤖 LawPunks notification group : [https://t.me/LawPunksSale](https://t.me/LawPunksSale)
+
+🌉 BlockNG Bridge Bolívar in realtime : [https://t.me/BridgeBolivar](https://t.me/BridgeBolivar)
 
 🀄️文交流 : [https://t.me/BlockNGChinese](https://t.me/BlockNGChinese)
 
